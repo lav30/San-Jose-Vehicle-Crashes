@@ -2,18 +2,18 @@
 
 ![](Image.png)
 
-Vehicle crashes explored visually through Tableau Public. Several dashboards are combined into a story format. 
+- Vehicle crashes explored visually through Tableau Public. Several dashboards are combined into a story format. 
 
-Dataset obtained from [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data)
+- Dataset obtained from [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data)
 
 ## Project Dashboard Link
 
-[Tableau Public Story Link](https://public.tableau.com/app/profile/lavanya.santhosh/viz/SanJoseCrashes/StorySJCrashes)
+- [Tableau Public Story Link](https://public.tableau.com/app/profile/lavanya.santhosh/viz/SanJoseCrashes/StorySJCrashes)
 
 
 ## Tableau Visualization of the Vehicles Involved
 
-The square colors indicate the type of object involved in the crash.
+- The square colors indicate the type of object involved in the crash.
 
 ![](SJmap.png)
 
