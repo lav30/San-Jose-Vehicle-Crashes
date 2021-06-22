@@ -6,12 +6,12 @@
 
 - Dataset obtained from [San Jose CA Open Data Portal](https://data.sanjoseca.gov/dataset/crashes-data)
 
-## Project Dashboard Link
+### Project Dashboard Link
 
 - [Tableau Public Story Link](https://public.tableau.com/app/profile/lavanya.santhosh/viz/SanJoseCrashes/StorySJCrashes)
 
 
-## Tableau Visualization of the Vehicles Involved
+### Tableau Visualization of the Vehicles Involved
 
 - The legend colors indicate the type of object involved in the crash.
 
