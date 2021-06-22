@@ -13,7 +13,7 @@
 
 ## Tableau Visualization of the Vehicles Involved
 
-- The square colors indicate the type of object involved in the crash.
+- The legend colors indicate the type of object involved in the crash.
 
 ![](SJmap.png)
 
